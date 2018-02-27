@@ -13,7 +13,7 @@ import java.util.Map;
  * Loading plugin for the mod.
  */
 @Name("Minecart AI Fix")
-@MCVersion("1.12.2")
+@MCVersion("1.11.2")
 @TransformerExclusions("nge.lk.mods.")
 @SortingIndex(1001)
 public class MinecartAIFixLoadingPlugin implements IFMLLoadingPlugin {
