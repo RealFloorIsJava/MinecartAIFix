@@ -10,5 +10,5 @@ The fix provided disables steering of minecarts by entities other than players
 and might cause problems with other mods relying on the default minecart
 mechanics.
 
-This mod requires Forge. It was tested with build #2259 for 1.11.2 and
+This mod requires Forge. It was tested with build #2588 for 1.11.2 and
 build #2623 for 1.12.2.
