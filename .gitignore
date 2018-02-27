@@ -1,0 +1,11 @@
+gradle*
+build
+classes
+run
+.gradle
+eclipse
+.idea
+*.iml
+
+workspace-1.12.2/README.txt
+workspace-1.12.2/src
