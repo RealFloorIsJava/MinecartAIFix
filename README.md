@@ -1,7 +1,7 @@
 # Minecart AI Fix
 
 A minecraft mod designed to fix bug
-[MC-64836](https://minecraft.curseforge.com/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-64836)
+[MC-64836](https://bugs.mojang.com/browse/MC-64836)
 
 This bug enables entities other than players to use their AI while in minecarts
 which might break automation designs and other contraptions using minecarts.
